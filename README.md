@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> Hi, I'm Don_oso005! <img src="https://media.giphy.com/media/KNARS6GbZ155iUaHOw/giphy.gif" width="25"></h2>
+<img align='right' src="https://media.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif" width="230">
+<p><em>Hello! Welcome to my profile!
+</em></p>
 
-<!--
-**Donoso005/Donoso005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Don_oso005, and I'm Spanish<br/> 
+I like JavaScript, my favorite framework is Node.js<br/> 
+I like to make Discord Bots and Web Pages<br/>
+Im a FullStack Developer<br/><br/>
+My Discord: Don_oso005#6475<br>
+My Page: [Notch Development](https://notchdev.xyz)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const donoso005 = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, HTML, CSS, Java],
+  tools: [Node, Express, Docker],
+  challenge: "I am making a Discord Bot for all the Discord Community to give some spark in their Discord Servers."
+}
+```
+
+## Github stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=donoso005&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true)
+
+### Contact Me
+
+You can contact me via Discord im online all the day if you want to talk or you have any questions please send me a message.<br>
+<em><b>Discord: </b></em>Don_oso005#6475
