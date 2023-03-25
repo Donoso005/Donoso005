@@ -21,11 +21,17 @@ const donoso005 = {
   challenge: "I am making a Discord Bot for all the Discord Community to give some spark in their Discord Servers."
 }
 ```
-
-## Github stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=donoso005&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true)
-
-### Contact Me
+## Contact Me
 
 You can contact me via Discord im online all the day if you want to talk or you have any questions please send me a message.<br>
 <em><b>Discord: </b></em>Don_oso005#6475
+<div align="center">
+    <a href="https://discord.com/users/681883796169031706"><img src="https://lanyard.cnrad.dev/api/681883796169031706?hideDiscrim=true?hideStatus=true" /></a>
+</div>
+
+## Github stats
+<div align="center">
+<a href="https://github.com/Donoso005"><img src="https://github-readme-stats.vercel.app/api?username=donoso005&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true"></a>
+<br>
+<a href="https://github.com/Donoso005"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donoso005&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true"></a>
+</div>
