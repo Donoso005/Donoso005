@@ -7,7 +7,7 @@ I'm Don_oso005, and I'm Spanish<br/>
 I like JavaScript, my favorite framework is Node.js<br/> 
 I like to make Discord Bots and Web Pages<br/>
 Im a FullStack Developer<br/><br/>
-My Discord: Don_oso005#6475<br>
+My Discord: Don_oso005#don_oso005<br>
 My Page: [Notch Development](https://notchdev.xyz)
 
 
