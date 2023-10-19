@@ -25,9 +25,6 @@ const donoso005 = {
 
 You can contact me via Discord im online all the day if you want to talk or you have any questions please send me a message.<br>
 <em><b>Discord: </b></em>Don_oso005#6475
-<div align="center">
-    <a href="https://discord.com/users/681883796169031706"><img src="https://lanyard.cnrad.dev/api/681883796169031706?hideDiscrim=true?hideStatus=true&idleMessage=Hello%20World!,%20I'm%20Don_oso005" /></a>
-</div>
 
 ## Github stats
 <div align="center">
