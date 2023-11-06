@@ -17,7 +17,7 @@ const donoso005 = {
   pronouns: "he" | "him",
   code: [Javascript, Python, HTML, CSS, Java],
   tools: [Node, Express, Docker],
-  challenge: "I am making a Discord Bot for all the Discord Community to give some spark in their Discord Servers."
+  challenge: "I'm making Discord Bots for all the Discord Community to give some spark in their Discord Servers."
 }
 ```
 ## Contact Me
