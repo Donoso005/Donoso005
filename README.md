@@ -22,7 +22,7 @@ const donoso005 = {
 ## Contact Me
 
 You can contact me via Discord im online all the day if you want to talk or you have any questions please send me a message.<br>
-<em><b>Discord: </b></em>Don_oso005#6475
+<em><b>Discord: </b></em>Don_oso005#don_oso005
 
 ## Github stats
 <div align="center">
