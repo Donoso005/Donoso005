@@ -15,7 +15,7 @@ My Discord: Don_oso005#don_oso005<br>
 ```javascript
 const donoso005 = {
   code: [Javascript, Python, HTML, CSS, Java],
-  tools: [Node, Express, Docker],
+  tools: [Node, Express, Docker, React, Discord.js],
   challenge: "I'm making Discord Bots for all the Discord Community to give some spark in their Discord Servers."
 }
 ```
